@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">parcial</string>
+    <string name="register">Registrar</string>
+    <string name="login">Login</string>
+    <string name="loout">Loout</string>
+    <string name="bienenido">Bienvenido de nuevo!</string>
+    <string name="correo">Correo electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="olvide_mi_contraseña">Olvide mi contraseña</string>
+    <string name="inicio_sesion">Iniciar sesion</string>
+    <string name="notienescuenta">¿no tienes una cuenta?</string>
+    <string name="resgistrateahora">registrate ahora</string>
+    <string name="resgistrateparacomenzar">¡Hola! Regístrese para comenzar</string>
+    <string name="yatienescuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciahora">Inicia sesión ahora</string>
+    <string name="nombres">Nombres</string>
+    <string name="numcel">Numero de celular</string>
+    <string name="hola">Hola, IUB</string>
+    <string name="llamar">llamar</string>
+    <string name="email">Email</string>
+    <string name="mensaje">MSN</string>
+    <string name="editar">Editar</string>
+    <string name="hola2">¡Hola! Quieres actualizar tus datos</string>
+    <string name="olvidocontra">¿Has olvidado tu contraseña?</string>
+    <string name="notepreocupes">¡No te preocupes! Por favor ingrese la dirección de correo electrónico vinculada con su cuenta.</string>>
+    <string name="enviarcodigo">Enviar codigo</string>
+
+    <string name="txt_validar_datos">todos los comapos deben ser llenados</string>
+    <string name="txt_successful_register">el usuario a sido registrado con exito</string>
+</resources>
